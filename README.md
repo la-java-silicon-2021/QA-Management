@@ -7,7 +7,7 @@
 
 ## GitLabのQA Management
 
-[質問管理票へのリンク](https://gitlab.com/la-2020-java-practice-6m/qa-management/-/issues?scope=all&utf8=%E2%9C%93&state=all)
+[質問管理票へのリンク](https://github.com/la-java-silicon-2021/QA-Management/issues?q=is%3Aissue)
 
 ## 使い方
 
