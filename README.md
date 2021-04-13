@@ -5,13 +5,13 @@
 日報への講師からのコメントに対してコメントでさらに質問した場合ほぼ気づけません。
 なので、GitHubのQA Managementに投げてください！
 
-## GitHubのQA Management
+## GitHubのQA-Management
 
 [質問管理票へのリンク](https://github.com/la-java-silicon-2021/QA-Management/issues?q=is%3Aissue)
 
 ## 使い方
 
-1. ページ左側の「課題」＞リストをクリック
+1. QA-Management画面の「issues」タブを選択されていることを確認し、右上の「NewIssue」をクリック
 2. 右上の「新規課題」をクリックして下記を記入し、左下の「submit 課題」で質問をアップ
     * タイトル(質問のタイトル)
     * Description(質問内容を詳細に)
