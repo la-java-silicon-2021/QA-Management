@@ -3,9 +3,9 @@
 質問は翌日の17時までに回答予定です（間に合わなかったらごめんなさい）
 
 日報への講師からのコメントに対してコメントでさらに質問した場合ほぼ気づけません。
-なので、GitLabのQA Managementに投げてください！
+なので、GitHubのQA Managementに投げてください！
 
-## GitLabのQA Management
+## GitHubのQA Management
 
 [質問管理票へのリンク](https://github.com/la-java-silicon-2021/QA-Management/issues?q=is%3Aissue)
 
@@ -22,7 +22,7 @@
 ## 質問の仕方
 * 具体的に質問しましょう！
 * すでに同じ質問がないか確認しましょう！
-* GitLabのページ左側の「課題」＞リスト　を選択し、課題一覧の上にある「All」を選択し、検索欄からキーワードで検索）
+* GitHubのページ左側の「課題」＞リスト　を選択し、課題一覧の上にある「All」を選択し、検索欄からキーワードで検索）
 
 
 
